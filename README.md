@@ -59,6 +59,10 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL"/>
   <!-- PostgreSQL -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
+  <!-- Playwright -->
+  <img src="https://img.shields.io/badge/Playwright-007ACC?logo=playwright&logoColor=white&style=for-the-badge" alt="Playwright"/>
+  <!-- Jest -->
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" alt="Jest"/>
 </p>
 
 ---
