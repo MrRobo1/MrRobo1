@@ -45,12 +45,20 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
   <!-- TypeScript -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
+  <!-- Next.js -->
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js"/>
   <!-- Vue -->
   <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js"/>
   <!-- React -->
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
   <!-- Docker -->
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
+  <!-- GraphQL -->
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL"/>
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
 </p>
 
 ---
