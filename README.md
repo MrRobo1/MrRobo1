@@ -1,6 +1,6 @@
 <!-- Bannière ou GIF (optionnel) -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/34925750/202248779-21a5a6dc-28ca-4dbb-8164-3fbc6d9972a9.gif" alt="Banner" width="600"/>
+  <img src="https://tenor.com/fr/view/hello-world-seytonic-coding-hello-gif-10598764531210485569" alt="Banner" width="600"/>
 </div>
 
 <!-- Titre Principal -->
