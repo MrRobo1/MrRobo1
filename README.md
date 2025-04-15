@@ -59,10 +59,10 @@
 
 <div align="center">
   <!-- Stats globales -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kadir&show_icons=true&theme=react" alt="Statistiques GitHub de Kadir"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MrRobo1&show_icons=true&theme=react" alt="Statistiques GitHub de Kadir"/>
   
   <!-- Langages les plus utilisés -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadir&layout=compact&theme=react" alt="Langages les plus utilisés"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobo1&layout=compact&theme=react" alt="Langages les plus utilisés"/>
 </div>
 
 
