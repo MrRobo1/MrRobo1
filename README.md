@@ -10,9 +10,7 @@
 </p>
 
 <!-- Typing SVG (optionnel) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16B3F7&width=600&lines=Bienvenue+sur+mon+profil+GitHub+!;Je+suis+passionné+par+le+développement+frontend;Actuellement,+j'apprends+TypeScript;Poses+tes+questions+sur+React+ou+Vue+!">
-</p>
+
 
 ---
 
